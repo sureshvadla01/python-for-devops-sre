@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.envrc
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DevOps & cloud configs
+*.tfstate
+*.tfstate.backup
+.terraform/
+secrets.yaml
+*.pem
+*.key
