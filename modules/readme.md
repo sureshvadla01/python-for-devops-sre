@@ -1,4 +1,3 @@
-Excellent 👏 — this is a very common area of confusion!
 Let’s make it **crystal clear** — what’s the difference between a **module**, a **package**, and a **library** in Python.
 
 ---
